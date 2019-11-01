@@ -1,0 +1,60 @@
+body{
+    width: 100%;
+}
+.formulaires{
+    color: #fff;
+    background: #2d2d2d;
+     border-radius: 10px;
+     margin: 10px;
+     width: 850px;
+     height: 400px;
+     margin-top: 10px;
+     }
+
+      /* background: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0, rgb(60,60,60)),
+        color-stop(0.74, rgb(43,43,43)),
+        color-stop(1, rgb(60,60,60))
+        );
+     background: -moz-linear-gradient(
+        center bottom,
+        rgb(60,60,60) 0%,
+        rgb(43,43,43) 74%,
+        rgb(60,60,60) 100%
+        );
+     -moz-border-radius: 10px; */
+     /* -webkit-border-radius: 10px; */
+input
+{
+    border: 1px solid grey;
+    border-radius: 22px;
+    padding: 7px;
+    outline: none;
+    margin: 1px;
+}
+#forma{
+    margin-left: 40%;
+    padding: 20px;
+
+}
+label{
+    padding: 7px;
+    margin: 1px;
+    margin-left: 40px;
+}
+.boutton{
+    width: 20px;
+    width: 199px;
+
+}
+
+.valid{
+    border: 2px solid green
+}
+.invalid{
+    border: 2px solid red
+
+}
